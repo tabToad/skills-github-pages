@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-#headline
+# headline
 *content*
 ---
 
